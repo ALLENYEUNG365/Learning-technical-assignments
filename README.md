@@ -1,138 +1,133 @@
-# 🍓 Fruit Tank — Arcade Vocabulary Learning Game
+# 🍓 Fruit Tank Spelling Game
 
-![Fruit Tank](https://img.shields.io/badge/Game-Fruit%20Tank-ff6b6b?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Purpose-English%20Vocabulary-4dabf7?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Web%20Browser-51cf66?style=for-the-badge)
+> **Shoot letters. Spell fruit. Learn English.**
 
-> **Fruit Tank turns English spelling practice into a playful arcade experience: drive a mini tank, shoot letters, and build fruit words in the correct order.**
+Fruit Tank Spelling Game is a lightweight educational arcade game that turns English spelling practice into an interactive challenge. Players control a mini tank, target letters in the correct order, complete fruit words, receive immediate feedback, and earn points.
 
 ## 🎮 Play Online
 
-**Play Fruit Tank directly in your browser:**
+**Live game:**
 
-👉 https://allenyeung365.github.io/Learning-technical-assignments1/
+👉 https://allenyeung365.github.io/Learning-technical-assignments/
 
-> GitHub Pages can serve this project as a static web game because the current implementation is a self-contained `index.html` application.
+No installation is required. Open the link in a modern web browser and play directly.
+
+## 📸 Screenshots
+
+### Gameplay
+
+![Fruit Tank gameplay](https://raw.githubusercontent.com/ALLENYEUNG365/Learning-technical-assignments/main/screenshots/gameplay.png)
+
+### Learning interaction
+
+![Fruit Tank learning interaction](https://raw.githubusercontent.com/ALLENYEUNG365/Learning-technical-assignments/main/screenshots/gameplay-2.png)
 
 ## 🎥 Demo Video
 
-Watch the project demonstration on Google Drive:
+Watch the project demonstration:
 
 👉 https://drive.google.com/file/d/1fmcqtiN3TkzxEL1e2xWSemmgIUEpHkj-/view?usp=sharing
 
-## 🌟 Project Identity
+## 🧠 Educational Learning Loop
 
-This repository was originally named **Learning-technical-assignments**, but the project is better understood as an independent learning game:
+```text
+See the fruit
+      ↓
+Identify the target word
+      ↓
+Recall the spelling
+      ↓
+Move the tank & shoot letters
+      ↓
+Build the word in correct order
+      ↓
+Immediate visual + audio feedback
+      ↓
+Score points and reinforce memory
+      ↓
+Repeat with the next word
+```
 
-### **Fruit Tank**
+The design turns passive spelling recall into a short action-feedback-repetition loop.
 
-**Tagline:** *Shoot letters. Spell fruit. Learn English.*
+## 🎯 Core Learning Objectives
 
-Fruit Tank combines simple arcade mechanics with English vocabulary practice. Instead of memorising spelling from a worksheet, learners interact with letters, timing, scoring and immediate feedback in a lightweight browser-based game.
+- Strengthen English vocabulary spelling and recall
+- Encourage active retrieval instead of passive memorisation
+- Reinforce correct letter sequencing
+- Provide immediate feedback through game mechanics
+- Make short revision sessions more engaging and repeatable
 
-## 🧠 How It Works
+## 🍎 Game Features
 
-The learning loop is simple:
+- **Order-based spelling:** shoot the next correct letter in sequence.
+- **Tank controls:** keyboard and on-screen controls support movement and firing.
+- **Difficulty modes:** Easy, Normal and Hard provide different time limits.
+- **Scoring:** correctly completed words award points.
+- **Immediate feedback:** correct, incorrect, firing and success interactions provide visual/audio feedback.
+- **Replayability:** start, pause, skip and reset controls support repeated practice.
+- **Responsive browser experience:** designed for desktop and mobile interaction.
+- **Offline-friendly architecture:** the current game is a self-contained static web application.
 
-**See the fruit → identify the word → move the tank → shoot letters → spell in order → receive feedback → score points → repeat**
+## ⏱️ Difficulty Modes
 
-The game is designed so that the learner is actively retrieving and constructing the word rather than only reading it.
-
-## 🍎 Core Gameplay
-
-- 🎯 **Order-based spelling:** shoot the next correct letter in sequence.
-- 🚜 **Tank controls:** move left and right and fire projectiles.
-- ⏱️ **Difficulty modes:** Easy, Normal and Hard with different time limits.
-- 💯 **Scoring:** +100 points for each correctly spelled word.
-- 🔄 **Replayability:** skip, pause and reset controls support repeated practice.
-- 📱 **Responsive controls:** keyboard and on-screen mobile controls are supported.
-- 🔊 **Feedback sounds:** correct, incorrect, firing and success sounds reinforce interaction.
-- 🌐 **Offline-friendly:** the project is implemented as a self-contained browser experience without a required backend.
-
-These capabilities are implemented directly in the current single-page game. fileciteturn39file0
-
-## 📚 Educational Design
-
-Fruit Tank is built around a practical learning principle:
-
-> **Practice becomes more memorable when the learner has to act on the language.**
-
-The game can support:
-
-- English vocabulary spelling drills
-- Classroom warm-up activities
-- Individual self-study
-- Beginner language practice
-- Short revision sessions
-- Gamified EdTech demonstrations
-
-## 🎮 Difficulty System
-
-| Mode | Time per word | Intended use |
+| Mode | Time per word | Learning use |
 |---|---:|---|
-| Easy | 60 seconds | Beginners and first exposure |
+| Easy | 60 seconds | First exposure / beginners |
 | Normal | 40 seconds | Regular practice |
-| Hard | 20 seconds | Challenge and retrieval speed |
+| Hard | 20 seconds | Retrieval-speed challenge |
 
-The current game UI exposes all three difficulty modes. fileciteturn39file0
+## 🕹️ How to Play
 
-## 🖥️ User Experience
+1. Start a round and identify the fruit shown.
+2. Read the blank word pattern.
+3. Move the tank and fire at the correct next letter.
+4. Continue until the whole word is completed in order.
+5. Review the feedback and score, then move to the next word.
 
-### 1. Choose a word challenge
-A fruit illustration is presented as the learning target.
+**Keyboard:** `←` `→` to move, `Space` to fire.
 
-### 2. Construct the spelling
-The player uses the tank to shoot letters in the required order.
+## 🏗️ Technical Design
 
-### 3. Receive immediate feedback
-Correct and incorrect hits trigger visual and audio feedback.
+Fruit Tank is intentionally simple and easy to deploy:
 
-### 4. Earn points
-A correctly completed word awards **+100 points**.
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- HTML Canvas for game rendering
+- Web Audio API for sound effects
+- Inline SVG illustrations for fruit targets
+- Static hosting through GitHub Pages
 
-### 5. Continue learning
-The player can move to the next word, change difficulty, pause or restart the game.
+The current implementation is contained in a single browser application, which keeps the prototype fast, portable and easy to demonstrate.
 
-## 🏗️ Technical Overview
+## 🧩 Vocabulary Theme
 
-The current project is intentionally lightweight:
-
-- **HTML5**
-- **CSS3**
-- **Vanilla JavaScript**
-- **HTML Canvas** for game rendering
-- **Web Audio API** for sound feedback
-- Inline SVG fruit illustrations
-- Responsive browser controls
-
-The project currently consists of a self-contained `index.html` game and a concise README, making it suitable for static deployment. fileciteturn38file0
-
-## 🧩 Fruit Vocabulary Set
-
-The source includes fruit-oriented vocabulary and inline SVG illustrations, including examples such as:
+The current game uses fruit vocabulary such as:
 
 **apple · banana · orange · grape · peach · pear · mango · lemon · cherry · strawberry**
 
-This makes the visual target immediately connected to the spelling task. fileciteturn39file0
+## 🌍 Why This Matters
 
-## 🚀 Why Fruit Tank Matters
+Vocabulary learning is often repetitive, while games naturally encourage short cycles of action, feedback and repetition. Fruit Tank explores how a small interactive mechanic can make a familiar educational task more engaging without requiring a complex backend or heavy infrastructure.
 
-Traditional spelling practice often separates language from action. Fruit Tank experiments with a different approach: turn vocabulary retrieval into a small, repeatable game loop.
+The same learning framework can later be extended to:
 
-The goal is not to build a complex game. The goal is to make a **small learning action feel satisfying enough to repeat**.
+- CEFR-level vocabulary packs
+- School-grade word lists
+- Pronunciation and listening practice
+- Sentence construction
+- Adaptive difficulty
+- Learner progress tracking
+- Teacher/classroom mode
+- AI-personalised vocabulary generation
+- Additional vocabulary themes beyond fruit
 
-## 🔮 Future Development
+## 📚 Project Positioning
 
-Potential next steps include:
+Fruit Tank Spelling Game began as a technical learning project and has been developed into a standalone educational game concept with:
 
-1. Word packs by CEFR level or school grade
-2. English pronunciation for each fruit word
-3. Sentence-building after each completed word
-4. Adaptive difficulty based on learner performance
-5. Progress tracking and learner analytics
-6. Teacher/classroom mode
-7. More vocabulary themes beyond fruit
-8. AI-generated personalised vocabulary practice
+**a clear product identity + live playable demo + learning logic + technical documentation + demonstration video.**
 
 ## 👤 Creator
 
@@ -140,16 +135,16 @@ Potential next steps include:
 
 Education · Digital Technology · AI & Cloud Learning
 
-Interested in creating technology-enhanced learning experiences that combine interaction, multimedia and practical language learning.
+Interested in building practical technology-enhanced learning experiences that combine interaction, multimedia and real educational outcomes.
 
 ## 🔗 Project Links
 
-- 🎮 **Live Game:** https://allenyeung365.github.io/Learning-technical-assignments1/
-- 💻 **GitHub:** https://github.com/ALLENYEUNG365/Learning-technical-assignments
+- 🎮 **Live Game:** https://allenyeung365.github.io/Learning-technical-assignments/
+- 💻 **GitHub Repository:** https://github.com/ALLENYEUNG365/Learning-technical-assignments
 - 🎥 **Demo Video:** https://drive.google.com/file/d/1fmcqtiN3TkzxEL1e2xWSemmgIUEpHkj-/view?usp=sharing
 
 ---
 
-### From technical assignment to learning product
+### From assignment to educational product
 
-This repository started as a technical learning exercise. **Fruit Tank** is now presented as a standalone educational game concept with its own identity, learning objective, gameplay loop, online demo and project documentation.
+**Fruit Tank Spelling Game** is presented as an independent educational game rather than simply a course assignment: a small, playable example of how interaction design can support language learning.
