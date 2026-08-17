@@ -16,11 +16,12 @@ No installation is required. Open the link in a modern web browser and play dire
 
 ### Gameplay
 
-![Fruit Tank gameplay](https://raw.githubusercontent.com/ALLENYEUNG365/Learning-technical-assignments/main/screenshots/gameplay.png)
+<img width="2880" height="1710" alt="image" src="https://github.com/user-attachments/assets/81485333-ca96-424d-a2b3-77c7d4eea47e" />
+
 
 ### Learning interaction
 
-![Fruit Tank learning interaction](https://raw.githubusercontent.com/ALLENYEUNG365/Learning-technical-assignments/main/screenshots/gameplay-2.png)
+
 
 ## 🎥 Demo Video
 
