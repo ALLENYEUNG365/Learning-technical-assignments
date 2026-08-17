@@ -8,7 +8,7 @@ Fruit Tank Spelling Game is a lightweight educational arcade game that turns Eng
 
 **Live game:**
 
-👉 https://allenyeung365.github.io/Learning-technical-assignments/
+👉 https://allenyeung365.github.io/Fruit-Tank-Spelling-Game/
 
 No installation is required. Open the link in a modern web browser and play directly.
 
@@ -16,13 +16,11 @@ No installation is required. Open the link in a modern web browser and play dire
 
 ### Gameplay
 
-<img width="2734" height="1400" alt="image" src="https://github.com/user-attachments/assets/656b5a01-5234-4508-afb2-4ac2310952c0" />
-
+<img width="2734" height="1400" alt="Fruit Tank gameplay" src="https://github.com/user-attachments/assets/656b5a01-5234-4508-afb2-4ac2310952c0" />
 
 ### Learning interaction
 
-<img width="2736" height="1416" alt="image" src="https://github.com/user-attachments/assets/0852419f-e3b6-46d1-8138-8aabd4023d2e" />
-
+<img width="2736" height="1416" alt="Fruit Tank learning interaction" src="https://github.com/user-attachments/assets/0852419f-e3b6-46d1-8138-8aabd4023d2e" />
 
 ## 🎥 Demo Video
 
@@ -101,7 +99,7 @@ Fruit Tank is intentionally simple and easy to deploy:
 - Inline SVG illustrations for fruit targets
 - Static hosting through GitHub Pages
 
-The current implementation is contained in a single browser application, which keeps the prototype fast, portable and easy to demonstrate.
+The current implementation is contained in a compact browser application, keeping the prototype fast, portable and easy to demonstrate.
 
 ## 🧩 Vocabulary Theme
 
@@ -141,8 +139,8 @@ Interested in building practical technology-enhanced learning experiences that c
 
 ## 🔗 Project Links
 
-- 🎮 **Live Game:** https://allenyeung365.github.io/Learning-technical-assignments/
-- 💻 **GitHub Repository:** https://github.com/ALLENYEUNG365/Learning-technical-assignments
+- 🎮 **Live Game:** https://allenyeung365.github.io/Fruit-Tank-Spelling-Game/
+- 💻 **GitHub Repository:** https://github.com/ALLENYEUNG365/Fruit-Tank-Spelling-Game
 - 🎥 **Demo Video:** https://drive.google.com/file/d/1fmcqtiN3TkzxEL1e2xWSemmgIUEpHkj-/view?usp=sharing
 
 ---
