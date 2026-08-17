@@ -16,11 +16,12 @@ No installation is required. Open the link in a modern web browser and play dire
 
 ### Gameplay
 
-<img width="2880" height="1710" alt="image" src="https://github.com/user-attachments/assets/81485333-ca96-424d-a2b3-77c7d4eea47e" />
+<img width="2734" height="1400" alt="image" src="https://github.com/user-attachments/assets/656b5a01-5234-4508-afb2-4ac2310952c0" />
 
 
 ### Learning interaction
 
+<img width="2736" height="1416" alt="image" src="https://github.com/user-attachments/assets/0852419f-e3b6-46d1-8138-8aabd4023d2e" />
 
 
 ## 🎥 Demo Video
