@@ -49,6 +49,7 @@ Repeat with the next word
 ```
 
 The design turns passive spelling recall into a short action-feedback-repetition loop.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/adb0306d-cf0d-4283-b5e1-41a2c9c421aa" />
 
 ## 🎯 Core Learning Objectives
 
@@ -59,6 +60,7 @@ The design turns passive spelling recall into a short action-feedback-repetition
 - Make short revision sessions more engaging and repeatable
 
 ## 🍎 Game Features
+<img width="1575" height="999" alt="image" src="https://github.com/user-attachments/assets/ca634b21-c5b1-45b1-9100-611e17218974" />
 
 - **Order-based spelling:** shoot the next correct letter in sequence.
 - **Tank controls:** keyboard and on-screen controls support movement and firing.
